@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mangmureng
 - 👀 I’m interested in programming and computer science 💻
 - 🌱 I’m currently learning JavaScript language
-- 📫 How to reach me ...soon
